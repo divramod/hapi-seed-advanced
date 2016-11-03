@@ -49,3 +49,5 @@ reports
 .*.*.swo
 .*.swo
 
+# yarn
+yarn.lock
